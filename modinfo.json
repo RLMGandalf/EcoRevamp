@@ -1,0 +1,19 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "EcoRevamp",
+    "display_name" : "EcoRevamp",
+    "description" : "Test Mod for EcoRevamp",
+    "author" : "Gandalf",
+    "version" : "0.1",
+	"build": "79600",
+    "date": "2015/03/23",
+    "signature": "not yet implemented",
+    "category": [
+        "server-mod",
+		"units",
+		"game-mode"
+    ],
+    "id": "a",
+    "priority": 500
+}
